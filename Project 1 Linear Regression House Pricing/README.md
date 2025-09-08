@@ -90,7 +90,7 @@ The model explains about **60% of the variation** in house rents. It’s not per
 
 ---
 
-✍️ Author: *\[Olayinka Johnson Ige]*
+✍️ Author: Olayinka Johnson Ige
 
 ---
 
