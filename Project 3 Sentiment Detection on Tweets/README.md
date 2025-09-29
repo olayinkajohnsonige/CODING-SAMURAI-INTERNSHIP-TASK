@@ -11,6 +11,8 @@ The goal was to build models that can classify tweet sentiments accurately and u
 ---
 
 ## 📊 Dataset Source
+Due to GitHub’s 100MB file size limit, the dataset is not included in this repository. 
+You can find it here:
 
 Original Dataset Name: [Sentiment140 Dataset](https://www.kaggle.com/datasets/kazanova/sentiment140)
 
