@@ -1,7 +1,3 @@
-Ahhh got you now 😎 — you want a **clean, well-structured, portfolio-ready README** with icons, sections, and a story, like your Iris project example. Here’s one for your MNIST Handwritten Digit Recognition project:
-
----
-
 # ✍️ Handwritten Digit Recognition (MNIST)
 
 ## 📌 Project Overview
